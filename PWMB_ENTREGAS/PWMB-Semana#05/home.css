@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #99aab5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5566a1;
+    color: #282525;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+<! Estilo específico páginas individuais>
+.home {
+    text-align: center;
+    padding: 30px;
+}
